@@ -1,107 +1,108 @@
-# 👩‍💻 Banu Priya A
-
-**Java Backend Developer | Full-Stack Enthusiast**  
-*Building scalable applications with clean, maintainable code*
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/reactive)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
-## 👋 About Me
-
-I am a passionate Software Developer with strong expertise in Java, Spring Boot, and WebFlux. I love building real-world, scalable applications that solve meaningful problems. My focus is on writing clean, maintainable code and continuously learning modern technologies to deliver efficient backend solutions.
-
-## 🛠 Technical Skills
-
-### **Programming Languages**
-- **Java** (Core Java, OOP, Collections, Multithreading)
-- **HTML5**, **CSS3**, **JavaScript** (ES6+)
-
-### **Frameworks & Technologies**
-- **Spring Framework**: Spring Boot, Spring WebFlux, Spring Security
-- **Web Technologies**: Thymeleaf, Bootstrap, Fetch API
-- **Testing**: JUnit, Mockito
-
-### **Databases**
-- **SQL**: MySQL
-- **NoSQL**: MongoDB
-
-### **Tools & Practices**
-- **Version Control**: Git, GitHub
-- **Development Tools**: IntelliJ IDEA, Postman
-- **Methodologies**: Agile, RESTful APIs, Reactive Programming
-
-## 🚀 Featured Projects
-
-### **[Patient Medicine & Appointment System](https://github.com/yourusername/patient-medicine-system)**
-*A secure healthcare management application built with reactive programming*
-- **Tech Stack**: Spring Boot WebFlux, MongoDB, Spring Security, Reactive Programming
-- **Features**: Patient registration, appointment scheduling, medication management, secure authentication
-- **Highlights**: Reactive streams, non-blocking I/O, real-time updates
-
-### **[Employee Management System](https://github.com/yourusername/employee-management-system)**
-*Full-stack CRUD application with robust validation and error handling*
-- **Tech Stack**: Spring Boot WebFlux, Thymeleaf, Bootstrap, MySQL
-- **Features**: Complete employee lifecycle management, frontend+backend validation, user-friendly UI
-- **Highlights**: Real-time APIs, comprehensive error handling, responsive design
-
-### **[Online Bus Booking System](https://github.com/yourusername/bus-booking-system)**
-*Complete web application for transportation management*
-- **Tech Stack**: Java, Spring Boot, MySQL, Bootstrap, Thymeleaf
-- **Features**: Ticket booking, seat selection, scheduling, payment integration
-- **Highlights**: Full-stack development, database design, user experience focus
-
-## 🌟 Upcoming Projects
-
-### **VoiceBridge** 
-*Real-time speech translation application*
-- **Focus**: Breaking language barriers using Spring Boot + Fetch API
-- **Goal**: Enable seamless cross-language communication
-
-### **Job Search Platform**
-*Innovative job portal with smart recommendations*
-- **Focus**: Advanced features for job seekers and recruiters
-- **Goal**: Streamline the hiring process with AI-powered matching
-
-### **Community Store Management System**
-*Local business management solution*
-- **Focus**: Inventory management, billing, stock control for local stores
-- **Goal**: Support small business digital transformation
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&background=00000000&center=true&width=600&lines=Hi,+I'm+Banu+Priya+A👩‍💻;I+Build+Java+and+Spring+Boot+Applications🚀;Always+Learning+%26+Innovating+✨" alt="Typing SVG" />
 </p>
 
-## 📫 Let's Connect!
+# 💫 About Me
+I am **Banu Priya A**, a passionate **Java Backend Developer** and **Full-Stack Enthusiast**.
 
-- **📧 Email**: [banupriya17190209@gmal.com](mailto:banupriya17190209@gmail.com)
-- **💼 LinkedIn**: [www.linkedin.com/in/banupriya-a-45b9202a2
-
-](www.linkedin.com/in/banupriya-a-45b9202a2
-
-)
-- **🐙 GitHub**: [https://github.com/banupriya1719](https://github.com/banupriya1719)
-- **📝 Resume**: [https://drive.google.com/file/d/1GM8JL2XMll8DauWoEl5FtxxUIAGD3Gv7/view?usp=sharing](https://drive.google.com/file/d/1GM8JL2XMll8DauWoEl5FtxxUIAGD3Gv7/view?usp=sharing)
-
-## 📈 What I'm Currently Learning
-
-- Advanced Spring Boot Microservices
-- Cloud Technologies (AWS/Docker)
-- System Design Principles
-- Performance Optimization Techniques
+I enjoy building **real-world, scalable applications** with clean and maintainable code. My focus is on solving meaningful problems through software and continuously learning modern technologies.
 
 ---
 
-<div align="center">
+## 🔧 Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
 
-⭐ *"Code is like humor. When you have to explain it, it's bad." - Cory House*  
-*Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+---
 
-</div>
+## 🚀 Completed Projects
+
+### 🏥 Patient Medicine & Appointment System
+Secure healthcare management app using **Spring Boot WebFlux, MongoDB, Spring Security**. Includes patient registration, appointments, and medication management.
+
+### 👩‍💼 Employee Management System
+CRUD application with **frontend + backend validation**, user-friendly error handling, and APIs built on **Spring Boot WebFlux**.
+
+### 🚌 Online Bus Booking System
+A web app for ticket booking, seat selection, and scheduling using **Java, Spring Boot, MySQL, and Bootstrap**.
+
+---
+
+## 🌟 Upcoming Projects
+
+### 🌐 VoiceBridge
+Real-time speech translation app (breaking language barriers using **Spring Boot + Fetch API**).
+
+### 💼 Job Search Platform
+An innovative job portal with smart recommendations and advanced features for job seekers and recruiters.
+
+### 🏪 Community Store Management System
+A real-time project for managing local stores, billing, and stock, tailored for surrounding needs.
+
+---
+
+## 🌐 Live Projects & Portfolio
+<p align="center">
+- [Patient Medicine & Appointment System](#) – Healthcare management app with Spring Boot WebFlux & MongoDB.
+- [Employee Management System](#) – CRUD app with frontend/backend validation.
+- [Online Bus Booking System](#) – Ticket booking and scheduling web app.
+- [Portfolio Website](https://your-portfolio-website.com) – My personal professional portfolio showcasing all projects.
+</p>
+
+---
+
+## 🎨 Final Tweaks for Recruiter Appeal
+- Added a **highlighted tech stack with icons** for visual clarity.
+- Completed and upcoming projects clearly separated.
+- Live project links and portfolio centralized for instant access.
+- Interactive GitHub stats, streak, and trophies for credibility.
+- Animated typing header for dynamic first impression.
+- Social badges and profile view counter for connectivity and analytics.
+
+---
+
+## 📊 GitHub Stats
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=banupriya1719&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banupriya1719&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=banupriya1719&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=banupriya1719&theme=radical&margin-w=10&margin-h=10)
+
+---
+
+## 📬 Contact Me
+<p align="center">
+  <a href="mailto:your-email-here"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=banupriya1719&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+✨ *Always excited to learn, build, and collaborate on meaningful projects!*
