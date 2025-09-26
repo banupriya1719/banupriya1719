@@ -81,10 +81,14 @@ I am a passionate Software Developer with strong expertise in Java, Spring Boot,
 
 ## 📫 Let's Connect!
 
-- **📧 Email**: [your-email@domain.com](mailto:your-email@domain.com)
-- **💼 LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **🐙 GitHub**: [Your GitHub](https://github.com/yourusername)
-- **📝 Resume**: [View Resume](https://drive.google.com/file/d/1GM8JL2XMll8DauWoEl5FtxxUIAGD3Gv7/view)
+- **📧 Email**: [banupriya17190209@gmal.com](mailto:banupriya17190209@gmail.com)
+- **💼 LinkedIn**: [www.linkedin.com/in/banupriya-a-45b9202a2
+
+](www.linkedin.com/in/banupriya-a-45b9202a2
+
+)
+- **🐙 GitHub**: [https://github.com/banupriya1719](https://github.com/banupriya1719)
+- **📝 Resume**: [https://drive.google.com/file/d/1GM8JL2XMll8DauWoEl5FtxxUIAGD3Gv7/view?usp=sharing](https://drive.google.com/file/d/1GM8JL2XMll8DauWoEl5FtxxUIAGD3Gv7/view?usp=sharing)
 
 ## 📈 What I'm Currently Learning
 
