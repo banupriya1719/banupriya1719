@@ -7,7 +7,7 @@ I am **BANUPRIYA A**, a passionate **Java Fullstack Developer**.
 
 I enjoy building **applications that connect people beyond barriers**. My motive is: *“I want to contribute by using technology to enhance my community and overcome challenges.”*
 
-🌐 **Portfolio Website:** [Click here](https://app.netlify.com/teams/banupriya1719/projects?sort_by=created_at)
+🌐 **Portfolio Website:** [Click here](https://banupriyaportfolio.netlify.app/)
 
 I am continuously learning modern technologies and working on real-time projects including **VoiceBridge, Job Portal, and live projects for nearby stores**.
 
