@@ -29,8 +29,8 @@ I am continuously learning modern technologies and working on real-time projects
 ## 🚀 Projects & Live Links
 <p align="center">
 - **Online Bus Booking App**: [GitHub](https://github.com/banupriya1719/onlinebusbookingapp_frontend-) | [Netlify](https://onlinebusbookingfrontend.netlify.app/)<br>• Real-time seat booking & cancellation<br>• Integrated with backend API<br>![Bus Booking Preview](https://github.com/banupriya1719/online-bus-booking-screenshots)<br>
-- **Mini Project 1:** [GitHub](https://github.com/banupriya1719/guviminiproject1api) | [Render](https://guviminiproject1api.onrender.com)<br>• API-based backend services<br>• Spring WebFlux implementation<br>![Mini1 Preview](https://via.placeholder.com/300x150.png?text=Mini+Project+1+Preview)<br>
-- **Mini Project 2 - Hospitality:** [GitHub](https://github.com/banupriya1719/hospitality/) | [Netlify](https://bphospitality.netlify.app/)<br>• Room & booking management<br>• User-friendly frontend UI<br>![Hospitality Preview](https://via.placeholder.com/300x150.png?text=Hospitality+Preview)<br>
+- **Mini Project 1:** [GitHub](https://github.com/banupriya1719/guviminiproject1api) | [Render](https://guviminiproject1api.onrender.com)<br>• API-based backend services<br>• Spring WebFlux implementation<br>![Mini1 Preview](https://github.com/banupriya1719/employemanagement-screenshots)<br>
+- **Mini Project 2 - Hospitality:** [GitHub](https://github.com/banupriya1719/hospitality/) | [Netlify](https://bphospitality.netlify.app/)<br>• Room & booking management<br>• User-friendly frontend UI<br>![Hospitality Preview](https://github.com/banupriya1719/employemanagement-screenshots)<br>
 - **Tasks 1-11:** [GitHub Repos](https://github.com/banupriya1719)<br>• Various mini-projects, HTML/CSS/JS, SQL, WebFlux<br>
 </p>
 
