@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&background=00000000&center=true&width=700&lines=BANUPRIYA+A👩‍💻;Java+Fullstack+Developer;Building+application+that+connect+people+beyond+barriers✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&background=00000000&center=true&width=700&lines=BANUPRIYA+A👩‍💻;Java+Fullstack+Developer;Building+applications+that+connect+people+beyond+barriers✨" alt="Typing SVG" />
 </p>
 
 # 💫 About Me
